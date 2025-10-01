@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/Strings/bin/Debug/net8.0/Strings
+/workspaces/C-Sharp/Strings/bin/Debug/net8.0/Strings.deps.json
+/workspaces/C-Sharp/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/workspaces/C-Sharp/Strings/bin/Debug/net8.0/Strings.dll
+/workspaces/C-Sharp/Strings/bin/Debug/net8.0/Strings.pdb
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.sourcelink.json
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.dll
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/refint/Strings.dll
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.pdb
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/workspaces/C-Sharp/Strings/obj/Debug/net8.0/ref/Strings.dll

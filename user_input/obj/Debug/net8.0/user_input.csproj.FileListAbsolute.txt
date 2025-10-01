@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/user_input/bin/Debug/net8.0/user_input
+/workspaces/C-Sharp/user_input/bin/Debug/net8.0/user_input.deps.json
+/workspaces/C-Sharp/user_input/bin/Debug/net8.0/user_input.runtimeconfig.json
+/workspaces/C-Sharp/user_input/bin/Debug/net8.0/user_input.dll
+/workspaces/C-Sharp/user_input/bin/Debug/net8.0/user_input.pdb
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.AssemblyInfo.cs
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.sourcelink.json
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.dll
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/refint/user_input.dll
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.pdb
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/user_input.genruntimeconfig.cache
+/workspaces/C-Sharp/user_input/obj/Debug/net8.0/ref/user_input.dll

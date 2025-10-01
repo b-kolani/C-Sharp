@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.AssemblyInfo.cs
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.sourcelink.json
+/workspaces/C-Sharp/Math/bin/Debug/net8.0/Math
+/workspaces/C-Sharp/Math/bin/Debug/net8.0/Math.deps.json
+/workspaces/C-Sharp/Math/bin/Debug/net8.0/Math.runtimeconfig.json
+/workspaces/C-Sharp/Math/bin/Debug/net8.0/Math.dll
+/workspaces/C-Sharp/Math/bin/Debug/net8.0/Math.pdb
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.dll
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/refint/Math.dll
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.pdb
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/Math.genruntimeconfig.cache
+/workspaces/C-Sharp/Math/obj/Debug/net8.0/ref/Math.dll

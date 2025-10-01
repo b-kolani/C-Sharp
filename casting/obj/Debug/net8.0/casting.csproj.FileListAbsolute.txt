@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.AssemblyInfo.cs
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.sourcelink.json
+/workspaces/C-Sharp/casting/bin/Debug/net8.0/casting
+/workspaces/C-Sharp/casting/bin/Debug/net8.0/casting.deps.json
+/workspaces/C-Sharp/casting/bin/Debug/net8.0/casting.runtimeconfig.json
+/workspaces/C-Sharp/casting/bin/Debug/net8.0/casting.dll
+/workspaces/C-Sharp/casting/bin/Debug/net8.0/casting.pdb
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.dll
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/refint/casting.dll
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.pdb
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/casting.genruntimeconfig.cache
+/workspaces/C-Sharp/casting/obj/Debug/net8.0/ref/casting.dll
