@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/2D_arrays/bin/Debug/net8.0/2D_arrays
+/workspaces/C-Sharp/2D_arrays/bin/Debug/net8.0/2D_arrays.deps.json
+/workspaces/C-Sharp/2D_arrays/bin/Debug/net8.0/2D_arrays.runtimeconfig.json
+/workspaces/C-Sharp/2D_arrays/bin/Debug/net8.0/2D_arrays.dll
+/workspaces/C-Sharp/2D_arrays/bin/Debug/net8.0/2D_arrays.pdb
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.AssemblyInfo.cs
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.sourcelink.json
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.dll
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/refint/2D_arrays.dll
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.pdb
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/2D_arrays.genruntimeconfig.cache
+/workspaces/C-Sharp/2D_arrays/obj/Debug/net8.0/ref/2D_arrays.dll

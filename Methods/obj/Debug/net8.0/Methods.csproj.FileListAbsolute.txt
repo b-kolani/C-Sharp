@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/Methods/bin/Debug/net8.0/Methods
+/workspaces/C-Sharp/Methods/bin/Debug/net8.0/Methods.deps.json
+/workspaces/C-Sharp/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/workspaces/C-Sharp/Methods/bin/Debug/net8.0/Methods.dll
+/workspaces/C-Sharp/Methods/bin/Debug/net8.0/Methods.pdb
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.dll
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/refint/Methods.dll
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.pdb
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/workspaces/C-Sharp/Methods/obj/Debug/net8.0/ref/Methods.dll

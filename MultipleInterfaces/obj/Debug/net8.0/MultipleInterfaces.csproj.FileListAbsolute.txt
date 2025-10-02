@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/MultipleInterfaces/bin/Debug/net8.0/MultipleInterfaces
+/workspaces/C-Sharp/MultipleInterfaces/bin/Debug/net8.0/MultipleInterfaces.deps.json
+/workspaces/C-Sharp/MultipleInterfaces/bin/Debug/net8.0/MultipleInterfaces.runtimeconfig.json
+/workspaces/C-Sharp/MultipleInterfaces/bin/Debug/net8.0/MultipleInterfaces.dll
+/workspaces/C-Sharp/MultipleInterfaces/bin/Debug/net8.0/MultipleInterfaces.pdb
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.AssemblyInfo.cs
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.sourcelink.json
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.dll
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/refint/MultipleInterfaces.dll
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.pdb
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/MultipleInterfaces.genruntimeconfig.cache
+/workspaces/C-Sharp/MultipleInterfaces/obj/Debug/net8.0/ref/MultipleInterfaces.dll

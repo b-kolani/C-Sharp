@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.AssemblyInfo.cs
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.sourcelink.json
+/workspaces/C-Sharp/OOP/bin/Debug/net8.0/OOP
+/workspaces/C-Sharp/OOP/bin/Debug/net8.0/OOP.deps.json
+/workspaces/C-Sharp/OOP/bin/Debug/net8.0/OOP.runtimeconfig.json
+/workspaces/C-Sharp/OOP/bin/Debug/net8.0/OOP.dll
+/workspaces/C-Sharp/OOP/bin/Debug/net8.0/OOP.pdb
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.dll
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/refint/OOP.dll
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.pdb
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/OOP.genruntimeconfig.cache
+/workspaces/C-Sharp/OOP/obj/Debug/net8.0/ref/OOP.dll

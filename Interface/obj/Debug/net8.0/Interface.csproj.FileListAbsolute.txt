@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/workspaces/C-Sharp/Interface/bin/Debug/net8.0/Interface
+/workspaces/C-Sharp/Interface/bin/Debug/net8.0/Interface.deps.json
+/workspaces/C-Sharp/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/workspaces/C-Sharp/Interface/bin/Debug/net8.0/Interface.dll
+/workspaces/C-Sharp/Interface/bin/Debug/net8.0/Interface.pdb
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.dll
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/refint/Interface.dll
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.pdb
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/workspaces/C-Sharp/Interface/obj/Debug/net8.0/ref/Interface.dll

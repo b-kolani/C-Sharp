@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.sourcelink.json
+/workspaces/C-Sharp/Abstraction/bin/Debug/net8.0/Abstraction
+/workspaces/C-Sharp/Abstraction/bin/Debug/net8.0/Abstraction.deps.json
+/workspaces/C-Sharp/Abstraction/bin/Debug/net8.0/Abstraction.runtimeconfig.json
+/workspaces/C-Sharp/Abstraction/bin/Debug/net8.0/Abstraction.dll
+/workspaces/C-Sharp/Abstraction/bin/Debug/net8.0/Abstraction.pdb
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.dll
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/refint/Abstraction.dll
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.pdb
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/Abstraction.genruntimeconfig.cache
+/workspaces/C-Sharp/Abstraction/obj/Debug/net8.0/ref/Abstraction.dll
